@@ -1,0 +1,12 @@
+{
+    "autocomplete": [
+        {"value": "query"}, 
+        {"value": "question"}, 
+        {"value": "quiz"}, 
+        {"value": "auto"}, 
+        {"value": "artificial intelligence"}, 
+        {"value": "autonomous"}, 
+        {"value": "art"}, 
+        {"value": "martial arts"}
+    ]
+}
