@@ -1,5 +1,6 @@
 import React from 'react'
 import ListItem from './ListItem'
+import './ListItemContainer.css'
 
 const ListItemContainer = ({ items = [], handleClick }) => {
     if (items.length === 0)
